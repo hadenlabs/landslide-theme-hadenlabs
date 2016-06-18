@@ -10,7 +10,8 @@ This file uses change log convention from [Keep a CHANGELOG](http://keepachangel
 - #1
 - #2
 
-[unreleased]: https://bitbucket.com/hadenlabs/landslide-theme-hadenlabs/compare/0.0.1...HEAD
+[unreleased]: https://bitbucket.com/hadenlabs/landslide-theme-hadenlabs/compare/0.0.2...HEAD
+[0.0.2]: https://bitbucket.com/hadenlabs/landslide-theme-hadenlabs/compare/0.0.1...0.0.2
 [0.0.1]: https://bitbucket.com/hadenlabs/landslide-theme-hadenlabs/compare/0.0.0...0.0.1
 
 [CONTRIBUTING.md]: CONTRIBUTING.md
